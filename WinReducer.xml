@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Configuration File generated with a WinReducer Software created by Winterstorm2050 from www.winreducer.net-->
+<Config>
+  <Date>11/07/35 04:40:36 ص</Date>
+  <Language>English</Language>
+  <Theme>Default</Theme>
+  <Update>true</Update>
+  <Version>v1.06</Version>
+  <Folders>
+    <Configuration>C:\Users\pc\Desktop\WinReducer81\HOME</Configuration>
+    <Languages>C:\Users\pc\Desktop\WinReducer81\HOME\LANGUAGES</Languages>
+    <Presets>C:\Users\pc\Desktop\WinReducer81\HOME\PRESETS</Presets>
+    <Software>C:\Users\pc\Desktop\WinReducer81\HOME\SOFTWARE</Software>
+    <Themes>C:\Users\pc\Desktop\WinReducer81\HOME\THEMES</Themes>
+    <Work>C:\Users\pc\Desktop\WinReducer81\WORK</Work>
+    <Extraction>C:\Users\pc\Desktop\WinReducer81\WORK\EXTRACT</Extraction>
+    <Integrate>C:\Users\pc\Desktop\WinReducer81\WORK\INTEGRATE</Integrate>
+    <ISO>C:\Users\pc\Desktop\WinReducer81\WORK\ISO</ISO>
+    <Mount>C:\Users\pc\Desktop\WinReducer81\WORK\MOUNT</Mount>
+  </Folders>
+  <Softs>
+    <_7zip />
+    <ImageX />
+    <oscdimg />
+    <SetACL />
+    <ResHacker />
+  </Softs>
+  <Windows>
+    <Open Number="" Edition="" Language="" Extract="" />
+  </Windows>
+</Config>
